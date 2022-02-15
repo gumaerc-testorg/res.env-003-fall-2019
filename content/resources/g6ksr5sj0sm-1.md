@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-env-003-earthdnas-climate-101-fall-2019/0fa791936b5ef12bf4ee0d8a8b805064_g6Ksr5sJ0sM.pdf
+file: /media/courses/res-env-003-earthdnas-climate-101-fall-2019/0fa791936b5ef12bf4ee0d8a8b805064_g6Ksr5sJ0sM.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 0fa79193-6b5e-f12b-f4ee-0d8a8b805064

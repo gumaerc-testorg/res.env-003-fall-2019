@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: SupplementalResourceSection
 title: Presentation, Application, and Related Files
 uid: adf55eb2-1085-a6e8-1cda-c0b8ae5915f2
 ---
