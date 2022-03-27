@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: What is EarthDNA?
 parent_type: CourseSection
+parent_uid: 6e733e51-829f-91dc-1101-2ac3e4dae658
 resourcetype: Image
 title: Earth.jpg
 uid: 4ece37a0-9bd0-ccb1-31df-4a6ffd7fe96f
