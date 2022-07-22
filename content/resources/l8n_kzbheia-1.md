@@ -1,9 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/res-env-003-earthdnas-climate-101-fall-2019/4e99cf352f6e2992c481af32ad8fefc3_L8N_KZBHeIA.pdf
+file: /courses/res-env-003-earthdnas-climate-101-fall-2019/4e99cf352f6e2992c481af32ad8fefc3_L8N_KZBHeIA.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
