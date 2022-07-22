@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/res-env-003-earthdnas-climate-101-fall-2019/f174c60fdfd97c927c5799dbbed7f7e7_res-env-003f19-th.jpg
+file: /courses/res-env-003-earthdnas-climate-101-fall-2019/f174c60fdfd97c927c5799dbbed7f7e7_res-env-003f19-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Venice and other coastal cities have experienced more frequent and severe
@@ -10,6 +10,9 @@ image_metadata:
     on Flickr. License CC BY-NC.)
   credit: Photo courtesy of Roberto Trombetta on Flickr. License CC BY.
   image-alt: Buildings and monuments reflected in flood waters.
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWImage
 resourcetype: Image
 title: res-env-003f19-th.jpg
 uid: f174c60f-dfd9-7c92-7c57-99dbbed7f7e7

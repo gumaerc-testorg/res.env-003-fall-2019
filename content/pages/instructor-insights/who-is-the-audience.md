@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4495d688-1345-8cf2-5d73-d0ea29e59b35
 title: Who Is the Audience?
 uid: 7ec5b24d-b985-f976-9714-7de2a7f9d50b

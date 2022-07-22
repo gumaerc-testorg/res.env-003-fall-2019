@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 4495d688-1345-8cf2-5d73-d0ea29e59b35
 title: Crafting the Climate 101 Presentation
 uid: 29a54a06-8d87-e6d9-fac9-baa8672ba778
