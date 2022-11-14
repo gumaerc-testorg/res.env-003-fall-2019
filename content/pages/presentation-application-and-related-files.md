@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Presentation, Application, and Related Files
@@ -11,7 +12,7 @@ Presentation Slides
 
 This document contains the full set of PowerPoint slides you'll need for the Climate 101 presentation, annotated with notes explaining what to say when presenting each slide:
 
-*   [Climate 101 (PPTX - 81 MB)]({{< baseurl >}}/resources/climate_101)
+*   {{% resource_link 7ff0f624-4e8a-fa08-d88c-20a9084cb1e0 "Climate 101 (PPTX - 81 MB)" %}}
 
 Ambassador Program Application
 ------------------------------
@@ -25,12 +26,12 @@ Handouts
 
 These documents can be made available at the end of the presentation to audience members who want more information:
 
-*   [Handout A (PDF)]({{< baseurl >}}/resources/mitres_env_003_handouta) - a list of useful resources for climate information
-*   [Handout B (PDF - 2.4 MB)]({{< baseurl >}}/resources/cc_handout_b) - a list of the sources for specific facts cited in the presentation
+*   {{% resource_link 41751b91-2e3a-93b8-0ff5-baeec88d3705 "Handout A (PDF)" %}} - a list of useful resources for climate information
+*   {{% resource_link fc6f1efc-3a91-c9f6-801f-23b74db16df1 "Handout B (PDF - 2.4 MB)" %}} - a list of the sources for specific facts cited in the presentation
 
 Volunteer Resources
 -------------------
 
 This document contains links to websites you may find useful in preparing for a Climate 101 presentation:
 
-*   [Volunteer Resources (PDF)]({{< baseurl >}}/resources/mitres_env_003_resourcesf19)
+*   {{% resource_link e7148bea-3bc0-8588-90b4-af72464aed06 "Volunteer Resources (PDF)" %}}
