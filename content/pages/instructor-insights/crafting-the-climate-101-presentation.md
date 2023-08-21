@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Brandon Leshchinskiy explains how the Climate 101 presentation
+  was developed.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In the section, Brandon Leshchinskiy and Prof. Dava Newman describe various
+  aspects of how they created EarthDNA and the Climate 101 presentation.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -14,7 +16,7 @@ EarthDNA’s Climate 101 is a resource designed to provide volunteers with all t
 
 The creators of EarthDNA’s Climate 101, Brandon Leshchinskiy and Prof. Dava Newman, hope that the young people who attend these presentations will be motivated to speak with their family members and persuade them that immediate societal action is urgently needed if the earth is to remain habitable in coming years.
 
-This resource includes the [PowerPoint slides (PPTX - 81 MB)]({{< baseurl >}}/resources/climate_101) for the presentation itself, along with an introductory [video]({{< baseurl >}}/resources/welcome-for-volunteers) from Prof. Newman, a [video]({{< baseurl >}}/resources/climate-101-live) of Leshchinskiy actually delivering the presentation to a classroom full of students, and extensive [supporting materials]({{< baseurl >}}/pages/presentation-application-and-related-files) for volunteers, such as handouts to be distributed to participants and links to valuable factual resources on other websites.
+This resource includes the {{% resource_link 7ff0f624-4e8a-fa08-d88c-20a9084cb1e0 "PowerPoint slides (PPTX - 81 MB)" %}} for the presentation itself, along with an introductory {{% resource_link e88390e1-c2b1-139f-fc7d-94b9f9ea46f2 "video" %}} from Prof. Newman, a {{% resource_link 559a548f-0a95-6a51-d0f8-e2b66f6c5268 "video" %}} of Leshchinskiy actually delivering the presentation to a classroom full of students, and extensive {{% resource_link adf55eb2-1085-a6e8-1cda-c0b8ae5915f2 "supporting materials" %}} for volunteers, such as handouts to be distributed to participants and links to valuable factual resources on other websites.
 
 Resource Outcomes
 -----------------
@@ -34,6 +36,6 @@ Instructor Insights
 
 In the pages linked below, which present insights from interview recordings for an episode of OCW’s [Chalk Radio](https://chalk-radio.simplecast.com/) podcast, Brandon Leshchinskiy and Prof. Dava Newman describe various aspects of how they created EarthDNA and the Climate 101 presentation.
 
-*   [What is EarthDNA?]({{< baseurl >}}/pages/instructor-insights/what-is-earthdna)
-*   [Crafting the Climate 101 Presentation]({{< baseurl >}}/pages/instructor-insights/crafting-the-climate-101-presentation)
-*   [Who Is the Audience?]({{< baseurl >}}/pages/instructor-insights/who-is-the-audience)
+*   {{% resource_link 6e733e51-829f-91dc-1101-2ac3e4dae658 "What is EarthDNA?" %}}
+*   {{% resource_link 29a54a06-8d87-e6d9-fac9-baa8672ba778 "Crafting the Climate 101 Presentation" %}}
+*   {{% resource_link 7ec5b24d-b985-f976-9714-7de2a7f9d50b "Who Is the Audience?" %}}
