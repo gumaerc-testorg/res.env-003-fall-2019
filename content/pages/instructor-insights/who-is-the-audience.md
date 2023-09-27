@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Brandon Leshchinskiy describes the audience he and Prof.
+  Newman are hoping to reach through the Climate 101 presentation.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ uid: 7ec5b24d-b985-f976-9714-7de2a7f9d50b
 
 _In this section, Brandon Leshchinskiy describes the audience he and Prof. Newman are hoping to reach through the Climate 101 presentation._
 
-![Man standing in front of a power point presentation.]({{< resource_file 4fe3b774-0b2f-3a8d-50b2-34757ea4ae86 >}})
+{{< resource 4fe3b774-0b2f-3a8d-50b2-34757ea4ae86 >}}
 
 Brandon Leshchinskiy giving the Climate 101 presentation to students at MIT.
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Prof. Dava Newman discusses EarthDNA, the organization
+  that developed the Climate 101 presentation.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -14,7 +16,7 @@ _In this section, Prof. Dava Newman discusses_ [_EarthDNA_](https://earthdna.org
 
 EarthDNA is a nonprofit organization that my partner Guillermo Trotti and I started last year. We’re committed to furthering climate research, and the research at MIT, but we also decided we want to put our personal time and resources into spinning off a nonprofit, because we want to accelerate any positive change we can.
 
-![The Earth.]({{< resource_file 4ece37a0-9bd0-ccb1-31df-4a6ffd7fe96f >}})
+{{< resource 4ece37a0-9bd0-ccb1-31df-4a6ffd7fe96f >}}
 
 Spaceship Earth, as captured by NASA. (Image courtesy of [Nasamarshall](https://flickr.com/photos/nasamarshall/32047071090/in/photolist-QPTBJs-B8kHmM-Rc6gJj-q62zgD-R3sFjf-oN3xdH-RkTeeQ-oMroEb-2gCbuZa-w7BtTP-CXMdGp-MMZDtA-Ngoj3T-v7Lhm1-2iMVLSL-QriYc1-2bkJCXF-2iRjCm8-2i4LDgU-2ijKPzD-2iKnLzd-2hfgZna-2iEtGTc-bfHstP-xKgfwu-2iYAkQQ-2iDSeBa-RBWv9Y-9pzSDn-2ioFfdL-2iBGPm9-JtiLU7-ak8Nkt-2harAvq-rGGyqa-2iVfYdt-LgGh31-2hNpqQo-PbT4DA-MjJtcy-8Ueo9G-2hoa2na-2gCkJ6C-2gLZGS1-2goFm3h-2hTqEn1-EZ5SrC-TLAFQ9-2gCWZTD-2h9Y9VA) on Flickr.)
 
