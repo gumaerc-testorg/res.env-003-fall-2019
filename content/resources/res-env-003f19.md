@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-env-003-earthdnas-climate-101-fall-2019/0a3e0110b49717c4fc338523c72a0cd8_res-env-003f19.jpg
+file_size: 29743
 file_type: image/jpeg
 image_metadata:
   caption: Venice and other coastal cities have experienced more frequent and severe
