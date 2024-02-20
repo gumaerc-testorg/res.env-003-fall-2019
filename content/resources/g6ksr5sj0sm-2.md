@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-env-003-earthdnas-climate-101-fall-2019/4a0c39f72f225117899e07a64fdee2fb_g6Ksr5sJ0sM.vtt
+file_size: 44379
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
