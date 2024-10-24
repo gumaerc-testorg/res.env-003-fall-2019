@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: a list of the sources for specific facts cited in the Climate 101 presentation
-file: /courses/res-env-003-earthdnas-climate-101-fall-2019/fc6f1efc3a91c9f6801f23b74db16df1_CC_Handout_B.pdf
+file: /ol-ocw-studio-app/courses/res-env-003-earthdnas-climate-101-fall-2019/fc6f1efc3a91c9f6801f23b74db16df1_CC_Handout_B.pdf
 file_size: 3104834
 file_type: application/pdf
 learning_resource_types: []
