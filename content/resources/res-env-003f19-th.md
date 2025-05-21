@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-env-003-earthdnas-climate-101-fall-2019/f174c60fdfd97c927c5799dbbed7f7e7_res-env-003f19-th.jpg
+file: /courses/res-env-003-earthdnas-climate-101-fall-2019/f174c60fdfd97c927c5799dbbed7f7e7_res-env-003f19-th.jpg
 file_size: 5482
 file_type: image/jpeg
 image_metadata:
