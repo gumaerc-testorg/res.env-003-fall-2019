@@ -5,7 +5,7 @@ leftnav:
   weight: 10
 - identifier: 4495d688-1345-8cf2-5d73-d0ea29e59b35
   name: Instructor Insights
-  pageRef: /pages/instructor-insights/
+  pageRef: /pages/instructor-insights/instructor-insights
   weight: 20
 - identifier: 6e733e51-829f-91dc-1101-2ac3e4dae658
   name: What is EarthDNA?
