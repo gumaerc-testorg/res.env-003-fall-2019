@@ -7,8 +7,8 @@ file_type: image/jpeg
 image_metadata:
   caption: Venice and other coastal cities have experienced more frequent and severe
     floods in recent years, a trend attributable to human-induced climate change.
-    (Photo courtesy of [Roberto Trombetta](https://www.flickr.com/photos/massimo_riserbo/49291566511/)
-    on Flickr. License CC BY-NC.)
+    (Photo courtesy of {{% resource_link "b44e0f44-b106-4099-96a9-d31467195e89" "Roberto
+    Trombetta" %}} on Flickr. License CC BY-NC.)
   credit: Photo courtesy of Roberto Trombetta on Flickr. License CC BY.
   image-alt: Buildings and monuments reflected in flood waters.
 learning_resource_types: []
